@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="scutp">img/scut.png</file>
+        <file alias="sjtup">img/sjtu.png</file>
+    </qresource>
+</RCC>
